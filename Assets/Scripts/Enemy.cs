@@ -11,7 +11,7 @@ public class Enemy : MovingObject
     private Transform target;                            //Transform to attempt to move toward each turn.
     private bool skipMove;                                //Boolean to determine whether or not enemy should skip a turn or move this turn.
 
-
+    //hfvgdisufgyuutyfgtyasdftyusafytdsaguytds
     //Start overrides the virtual Start function of the base class.
     protected override void Start()
     {
